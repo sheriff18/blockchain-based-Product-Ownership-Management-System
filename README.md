@@ -174,12 +174,9 @@ Website:
 5. Create a new Pull Request
 
 ## Authors <a name="authors"></a>
-+ [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
-+ [JohnAnand Abraham](https://github.com/johnanand) <br>
-+ [Kyle Lobo](https://github.com/kylelobo) <br>
-+ [Pratik Nerurkar](https://github.com/PlayPratz) <br>
++ [Alidu Sheriff](https://github.com/sheriff18) <br>
++ [Benedict Osei Sefa](https://github.com/python-benedict) <br>
 
-See also the list of [contributors](https://github.com/kylelobo/AuthentiFi/contributors) who participated in this project.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 [How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f) - _Mercury Protocol_
